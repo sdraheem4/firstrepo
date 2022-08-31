@@ -1,5 +1,9 @@
-Every 
+All
 Good 
+<<<<<<< HEAD
 girls
+=======
+guys
+>>>>>>> alternative
 Deserves 
 punishment
